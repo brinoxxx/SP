@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grupo HYCSA</string>
+    <string name="description_user_photo">Foto del usuario</string>
+    <string name="hint_username">nombre de usuario</string>
+    <string name="helper_username">Obligatorio</string>
+    <string name="sp_first_time">first_time</string>
+    <string name="dialog_title">Registro de usuario</string>
+    <string name="dialog_confirm">Registrar</string>
+    <string name="sp_username">username</string>
+</resources>
